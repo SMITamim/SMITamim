@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Mominin Islam Tamim</h1>
 <h3 align="center">A Software Engineer</h3>
+<h3 align="center">&</h3>
+<h3 align="center">A Web Developer</h3>
 
 - 🔭 I’m currently working on **TaffiChain**
 
