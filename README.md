@@ -6,7 +6,7 @@
 
 - 🔭 My recent project **Online Admission System for 12 cadet colleges in Bangladesh**
 
-- 🌱 I’m currently learning **Django,Laravel**
+- 🌱 I’m currently learning **Django, Asp Dot Net Core**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
