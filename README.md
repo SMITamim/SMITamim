@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Inventory Management System for Marble & Granite industries**
 
-- - 🔭 My recent project **Online Admission System for 12 cadet colleges in Bangladesh**
+- 🔭 My recent project **Online Admission System for 12 cadet colleges in Bangladesh**
 
 - 🌱 I’m currently learning **Django,Laravel**
 
