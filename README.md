@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Syed Mominin Islam Tamim</h1>
-<h3 align="center">A Software Engineer & Web Developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 
-- 🔭 I’m currently working on **Online Admission System for 12 cadet colleges in Bangladesh**
+- 🔭 I’m currently working on **Inventory Management System for Marble & Granite industries**
+
+- - 🔭 My recent project **Online Admission System for 12 cadet colleges in Bangladesh**
 
 - 🌱 I’m currently learning **Django,Laravel**
 
