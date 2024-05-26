@@ -21,11 +21,15 @@
 
 <h3 align="left">See my research:</h3>
 <p align="left">
-  
-  <a href="https://www.researchgate.net/profile/Syed-Mominin-Islam-Tamim" target="blank">
+  <a href="https://www.researchgate.net/profile/Your-ResearchGate-Profile" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" />
   </a>
+  <br>
+  <a href="https://scholar.google.com/citations?user=YourGoogleScholarID" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_scholar_logo.svg" alt="Google Scholar" height="30" width="40" />
+  </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
