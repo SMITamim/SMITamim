@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer</h3>
 
 
-- 🔭 I’m currently working on **Inventory Management System for Marble & Granite industries** using NodeJs
+- 🔭 I’m currently working on **ERP for Marble & Granite industries** using NodeJs & ReactJs
 
 - 🔭 My recent project **Online Admission System for 12 cadet colleges in Bangladesh**
 
