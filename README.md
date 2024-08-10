@@ -21,7 +21,7 @@
 
 <h3 align="left">See my research:</h3>
 <p align="left">
-  <a href="https://www.researchgate.net/profile/Your-ResearchGate-Profile" target="blank">
+  <a href="https://www.researchgate.net/profile/Syed-Mominin-Islam-Tamim" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" />
   </a>
 </p>
