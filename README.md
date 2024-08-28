@@ -37,3 +37,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMITamim&layout=compact&theme=radical" />
   </a>
 </p>
+
+<h3 align="left">Total Contributions:</h3>
+<p align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SMITamim&theme=radical" />
+  </a>
+</p>
