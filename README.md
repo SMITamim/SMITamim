@@ -28,19 +28,18 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SMITamim&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SMITamim&show_icons=true&include_all_commits=true&count_private=true&theme=radical&v=1" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMITamim&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMITamim&layout=compact&theme=radical&v=1" />
   </a>
 </p>
 
-<h3 align="left">Total Contributions:</h3>
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SMITamim&theme=radical" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SMITamim&theme=radical&v=1" />
   </a>
 </p>
