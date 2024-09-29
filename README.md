@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Mominin Islam Tamim</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on **ERP for Marble & Granite industries** & **A Newspaper Portal using NodeJs & ReactJs**
+- 🔭 I’m currently working on **ERP for Marble & Granite industries** & **A Tour & Travel Software**
 
 - 🔭 My recent project: **Online Admission System for 12 cadet colleges in Bangladesh**
 
