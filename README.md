@@ -9,7 +9,7 @@
 
 ### 🚀 What I'm working on
 
-- 🔭 **Most recently** led AI and backend on a real-estate CRM at Digital Pylot — shipped a production RAG assistant (Node.js, Next.js, TypeScript, MongoDB, Qdrant, OpenAI, Eleven Labs) and owned two services (Lead Management, Offer Management) in an active monolith-to-microservices migration.
+- 🔭 **Most recently** led AI and backend on a CRM at Digital Pylot — shipped a production RAG assistant (Node.js, Next.js, TypeScript, MongoDB, Qdrant, OpenAI, Eleven Labs) and owned two services (Lead Management, Offer Management) in an active monolith-to-microservices migration.
 
 - 🌍 **Currently building and running multiple international clients independently:**
   - 🚐 [**Dominican Airport Shuttle**](https://dominicanairportshuttle.com/) — USA-owned shuttle booking platform serving Punta Cana and the wider Dominican Republic. Full stack + React Native driver app.
