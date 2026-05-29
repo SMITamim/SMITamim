@@ -37,7 +37,7 @@
 
 **DevOps / Cloud:** Linux (Ubuntu/Debian) · Docker · Nginx · PM2 · SSL · AWS EC2 · Hostinger VPS
 
-**Integrations:** Stripe · PayPal · Authorize.Net · Booking.com API · BookTaxi.com
+**Integrations:** Stripe · PayPal · Authorize.Net · Booking.com API · BookTaxi.com . Viator
 
 **Tools:** Git · GitHub · GitLab · Postman · VS Code · Cursor
 
